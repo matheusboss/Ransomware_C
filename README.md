@@ -1,2 +1,7 @@
 # Ransomware_C
-A ransomware made in the C language to test security defenses.
+
+A simple ransomware written for testing purposes.
+
+Simple compilation with GCC compiler.
+
+Use wisely, we are not responsible for your actions.
